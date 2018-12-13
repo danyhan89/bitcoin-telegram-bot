@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    block_io (1.2.0)
+      ecdsa (~> 1.2, >= 1.2.0)
+      httpclient (~> 2.8, >= 2.8.0)
+      oj (~> 3.3, >= 3.3.5)
+      pbkdf2-ruby (~> 0.2, >= 0.2.1)
+    ecdsa (1.2.0)
+    httpclient (2.8.3)
+    oj (3.7.4)
+    pbkdf2-ruby (0.2.1)
+    telegram (0.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  block_io
+  telegram
+
+BUNDLED WITH
+   1.13.6
