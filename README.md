@@ -15,7 +15,7 @@
   - https://block.io
   - username: blockclientwallet1234@gmail.com
   - password: blockclientwallet1234
-  - btc testnet wallet address: 3Lan28JKRTXu7JvfsahscmqUbHuaYG7dwJ
+  - btc testnet wallet address: 2MsgmUBvy4tNTuLo65mNxQhvdubJwCUvgxZ
 
 ## Run as the server (bot)
 
@@ -46,4 +46,4 @@ ruby-2.3.7
   - https://block.io
   - username: blockbankserver1234@gmail.com
   - password: blockbankserver1234
-  - btc testnet wallet address: 3Lan28JKRTXu7JvfsahscmqUbHuaYG7dwJ
+  - btc testnet wallet address: 2Mwc74eLGgWiPaeNuuEkkggEx4K7cQPGVCu
